@@ -11,4 +11,4 @@
 <h3> View Patients  --> Print all the patients<h3>
 <h3> View Doctors --> Print all the doctors <h3>
 <h3> View Appointments --> Print all the apointments<h3>
-<h3> Exit <h3># HMS-Project
+<h3> Exit <h3>
